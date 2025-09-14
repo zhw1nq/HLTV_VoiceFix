@@ -26,8 +26,6 @@ updates:
         dependency-type: "direct"
       - dependency-name: "Microsoft.Extensions.*"
         dependency-type: "direct"
-    # Auto-approve CS# updates
-    ignore: []  # Don't ignore any CounterStrikeSharp updates
     
     # Custom update rules
     groups:
