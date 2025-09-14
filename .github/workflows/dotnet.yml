@@ -29,7 +29,7 @@ jobs:
   # Combine version calculation and build into single job to save minutes
   build-and-release:
     runs-on: ubuntu-latest
-    if: github.repository_owner == 'zhwlrq' # Only run for your repo
+    if: github.repository_owner == 'zhw1nq' # Only run for your repo
     steps:
     - name: Checkout
       uses: actions/checkout@v4
