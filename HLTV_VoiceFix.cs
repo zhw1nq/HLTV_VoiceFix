@@ -6,7 +6,7 @@ public class HLTV_VoiceFix : BasePlugin
 {
     public override string ModuleName => "Fix Voice Chat in Demo Recordings";
     public override string ModuleAuthor => "zhw1nq";
-    public override string ModuleVersion => "1.2.0";
+    public override string ModuleVersion => "3.1.0";
 
     public override void Load(bool hotReload)
     {
